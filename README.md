@@ -6,6 +6,16 @@ A realtime chat application built using NodeJS, Express.js and socket.io
 
 The app is deployed on heroku. [Click here](https://realtime-chat-app021.herokuapp.com/)
 
+## Screenshots
+
+### Join Page
+
+![Join_Page](/projectScreenshots/Join_page.png)
+
+### Chat Page
+
+![Chat_Page](/projectScreenshots/Chat_page.png)
+
 ## App features:
 
 1. Users can join any room and chat
